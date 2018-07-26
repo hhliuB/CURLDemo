@@ -1,2 +1,2 @@
 *.c linguist-language=Objective-C
-
+*.a linguist-language=Objective-C
